@@ -92,7 +92,3 @@ blog/
 ## Author
 
 **Jairaj Kolhatkar** - Full Stack Developer
-
-## License
-
-MIT 
