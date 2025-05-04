@@ -9,6 +9,10 @@ import CreatePost from './components/CreatePost';
 import TagsList from './components/TagsList';
 import TagPosts from './components/TagPosts';
 
+/**
+ * Blog Application
+ * Created by: Jairaj Kolhatkar
+ */
 function App() {
   return (
     <Router>
@@ -32,6 +36,9 @@ function App() {
             <p className="mb-0">
               <img src="/image/icon.jpg" alt="Blog Logo" className="blog-logo" style={{width: '25px', height: '25px', borderRadius: '50%'}} />
               © {new Date().getFullYear()} Blog Application. All rights reserved.
+            </p>
+            <p className="small text-muted mb-0">
+              Created by Jairaj Kolhatkar
             </p>
           </div>
         </footer>

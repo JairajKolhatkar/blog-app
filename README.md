@@ -2,6 +2,8 @@
 
 A modern blog application with a Flask backend API and React frontend. This project allows you to create, view, and delete blog posts with tag categorization and custom background images.
 
+**Created by: Jairaj Kolhatkar**
+
 ## Features
 
 - Responsive design with modern UI using Bootstrap
@@ -86,6 +88,10 @@ blog/
 - **Delete Post**: Click "Delete Post" on the post detail page
 - **Search**: Use the search bar to find posts
 - **Browse by Tag**: Click on tags to see related posts
+
+## Author
+
+**Jairaj Kolhatkar** - Full Stack Developer
 
 ## License
 

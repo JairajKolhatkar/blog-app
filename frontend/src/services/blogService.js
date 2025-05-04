@@ -1,3 +1,9 @@
+/**
+ * Blog Application Service
+ * Created by: Jairaj Kolhatkar
+ * This service handles all API calls to the backend
+ */
+
 import axios from 'axios';
 
 // Create axios instance with proper configuration

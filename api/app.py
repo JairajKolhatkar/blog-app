@@ -1,3 +1,9 @@
+"""
+Blog Application API
+Created by: Jairaj Kolhatkar
+A simple Flask API for a blog application with in-memory storage
+"""
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
